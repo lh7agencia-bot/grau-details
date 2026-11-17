@@ -1,0 +1,6 @@
+{
+  "name": "Grau Details Estética Automotiva",
+  "description": "Seu carro, nosso cuidado. Lava jato e estética automotiva especializada em lavagem técnica, proteção e brilho.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

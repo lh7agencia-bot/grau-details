@@ -1,0 +1,125 @@
+{
+  "gallery_photos": [
+    {
+      "id": "gal-1",
+      "image_url": "/images/galeria-land-rover.jpeg",
+      "caption": "Land Rover Discovery — Lavagem técnica e revitalização de brilho intenso",
+      "display_order": 1,
+      "created_at": "2026-11-10T10:00:00.000Z"
+    },
+    {
+      "id": "gal-2",
+      "image_url": "/images/galeria-corolla-branco.jpeg",
+      "caption": "Toyota Corolla — Acabamento espelhado e proteção de pintura",
+      "display_order": 2,
+      "created_at": "2026-11-11T10:00:00.000Z"
+    },
+    {
+      "id": "gal-3",
+      "image_url": "/images/galeria-sw4-branca.jpeg",
+      "caption": "Toyota SW4 — Detalhamento completo de carroceria e caixas de roda",
+      "display_order": 3,
+      "created_at": "2026-11-12T10:00:00.000Z"
+    },
+    {
+      "id": "gal-4",
+      "image_url": "/images/galeria-moto-cb300f.jpeg",
+      "caption": "Honda CB 300F Twister — Cuidado técnico com cera de carnaúba e revitalizador",
+      "display_order": 4,
+      "created_at": "2026-11-13T10:00:00.000Z"
+    },
+    {
+      "id": "gal-5",
+      "image_url": "/images/galeria-moto-ibex.jpeg",
+      "caption": "Big Trail — Limpeza detalhada de motor, carenagens e rodas raiadas",
+      "display_order": 5,
+      "created_at": "2026-11-14T10:00:00.000Z"
+    },
+    {
+      "id": "gal-6",
+      "image_url": "/images/galeria-sonata-branco.jpeg",
+      "caption": "Hyundai Sonata — Lavagem detalhada e tratamento de rodas esportivas",
+      "display_order": 6,
+      "created_at": "2026-11-15T10:00:00.000Z"
+    },
+    {
+      "id": "gal-7",
+      "image_url": "/images/galeria-gol-rallye.jpeg",
+      "caption": "VW Gol Rallye — Cuidado especial para projetos rebaixados e rodas personalizadas",
+      "display_order": 7,
+      "created_at": "2026-11-16T10:00:00.000Z"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "test-1",
+      "author_name": "Rafael Mendes · Proprietário de SUV",
+      "content": "Levei minha SUV preta e o resultado na pintura superou qualquer lavagem comum. Os plásticos externos ficaram renovados sem aspecto engordurado.",
+      "rating": 5,
+      "status": "aprovado",
+      "created_at": "2026-11-10T14:20:00.000Z"
+    },
+    {
+      "id": "test-2",
+      "author_name": "Lucas Ferreira · Honda CB 300F",
+      "content": "Cuidado absurdo com cada detalhe da moto. Usam produtos específicos de estética automotiva e o acabamento no motor e nas rodas ficou impecável.",
+      "rating": 5,
+      "status": "aprovado",
+      "created_at": "2026-11-12T16:45:00.000Z"
+    },
+    {
+      "id": "test-3",
+      "author_name": "Camila Andrade · Toyota Corolla",
+      "content": "Atendimento pontual pelo WhatsApp, ambiente super organizado e atenção total aos detalhes internos e externos. Recomendo de olhos fechados.",
+      "rating": 5,
+      "status": "aprovado",
+      "created_at": "2026-11-14T11:10:00.000Z"
+    },
+    {
+      "id": "test-4",
+      "author_name": "Thiago Ribeiro · VW Gol Rallye",
+      "content": "Quem tem carro baixo sabe o medo de raspar ou riscar roda em lava jato comum. Na Grau Details o cuidado foi total do início ao fim.",
+      "rating": 5,
+      "status": "aprovado",
+      "created_at": "2026-11-15T18:00:00.000Z"
+    }
+  ],
+  "contact_messages": [],
+  "faqs": [
+    {
+      "id": "faq-1",
+      "question": "Qual a diferença da lavagem técnica para um lava jato comum?",
+      "answer": "Na lavagem técnica utilizamos pré-lavagem com shampoo neutro de alta lubrificação, luvas de microfibra macias, pincéis de detalhamento para emblemas e frestas, além de revitalizadores específicos que protegem pintura, plásticos e borrachas sem causar micro-riscos.",
+      "display_order": 1,
+      "created_at": "2026-11-10T09:00:00.000Z"
+    },
+    {
+      "id": "faq-2",
+      "question": "Vocês também atendem motocicletas?",
+      "answer": "Sim! Atendemos motos de baixa e alta cilindrada com limpeza segura de motor, relação, rodas raiadas ou de liga leve, carenagens e aplicação de proteção com cera de carnaúba e revitalizadores.",
+      "display_order": 2,
+      "created_at": "2026-11-10T09:05:00.000Z"
+    },
+    {
+      "id": "faq-3",
+      "question": "Preciso agendar horário antes de levar meu veículo?",
+      "answer": "Recomendamos agendar pelo WhatsApp (62) 98184-1323 para garantir atendimento sem espera e tempo dedicado exclusivamente ao cuidado do seu carro ou moto.",
+      "display_order": 3,
+      "created_at": "2026-11-10T09:10:00.000Z"
+    },
+    {
+      "id": "faq-4",
+      "question": "Quanto tempo dura em média uma lavagem detalhada?",
+      "answer": "O tempo varia conforme o porte e estado do veículo, geralmente entre 1h30 e 3h para lavagem técnica completa. Serviços de higienização interna profunda ou proteção de pintura podem demandar um período maior, informado na hora do agendamento.",
+      "display_order": 4,
+      "created_at": "2026-11-10T09:15:00.000Z"
+    },
+    {
+      "id": "faq-5",
+      "question": "Os produtos utilizados são seguros para pintura vitrificada ou envelopada?",
+      "answer": "Sim. Trabalhamos com shampoos de pH neutro e condicionadores profissionais seguros para vernizes originais, carros vitrificados, motos com pintura fosca e veículos personalizados.",
+      "display_order": 5,
+      "created_at": "2026-11-10T09:20:00.000Z"
+    }
+  ]
+}
